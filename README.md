@@ -1,1 +1,1 @@
-# Message
+# Java course
